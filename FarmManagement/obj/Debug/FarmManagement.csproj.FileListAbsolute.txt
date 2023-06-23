@@ -1,0 +1,142 @@
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe.config
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\bin\Debug\FarmManagement.pdb
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.AssemblyReference.cache
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.StartingForm.resources
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Properties.Resources.resources
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.GenerateResource.cache
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.pdb
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.login.resources
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.ResolveComReference.cache
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.managerPortal.resources
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.customerPortal.resources
+C:\Users\fahim\Downloads\C#\repos\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Employee.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe.config
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.pdb
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.AssemblyReference.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.ResolveComReference.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.customerPortal.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.employee.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.login.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.managerPortal.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.StartingForm.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Properties.Resources.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.GenerateResource.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.pdb
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.customer.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.health.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.cattle.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.sales.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.production.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.accounts.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CopyComplete
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\RestSharp.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Buffers.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.CodeDom.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Memory.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.Fody.CopyLocal.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Registration.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.RegistrationForm.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.CustomerProfile.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Availability.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.CustomerProfileEdit.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.BuyProd.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe.config
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\FarmManagement.pdb
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\RestSharp.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Buffers.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.CodeDom.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Memory.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.AssemblyReference.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.ResolveComReference.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Accounts.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Availability.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.BuyProd.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Customer.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.CustomerPortal.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Cattle.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.CustomerProfile.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.CustomerProfileEdit.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Employee.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Health.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Login.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.ManagerPortal.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.OrderHistory.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Production.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Registration.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.RegistrationForm.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Sales.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.StartingForm.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Properties.Resources.resources
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.GenerateResource.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.Fody.CopyLocal.cache
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CopyComplete
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.exe
+C:\Users\fahim\Downloads\Tenamoy Jibon\6th Semester\Object Oriented Programming 2\Project\Project\FarmManagement\FarmManagement\obj\Debug\FarmManagement.pdb
